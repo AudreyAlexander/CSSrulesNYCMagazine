@@ -1,0 +1,25 @@
+.cover {
+    width: 900px;
+    height: 500px;
+    
+}
+  #title {
+    color: black;
+    font-size: 90px;
+    margin-left: 300px;
+    font-family: 'Source Code Pro', monospace;
+  }
+  
+  #subtitle {
+    color:aqua;
+    font-size: 25px;
+    opacity: 40%;
+    margin-left: 600px;
+    font-family: 'Arial', monospace;
+    padding: 10px;
+  }
+  
+  #cover_image {
+   padding: 100px;
+  }
+  
